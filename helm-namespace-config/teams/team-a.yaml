@@ -7,7 +7,7 @@ namespace: team-a
 #specifies the quota to be used for resources
 quota:
   requests:
-    cpu: '0.8'
+    cpu: '0.9'
     memory: 1Gi
   limits:
     cpu: '2'
